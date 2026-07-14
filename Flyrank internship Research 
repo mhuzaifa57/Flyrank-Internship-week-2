@@ -13,18 +13,12 @@
     {
       "cell_type": "markdown",
       "source": [
-        "3. Quick Look at the Data\n",
+        "4. Careful Words\n",
         "\n",
-        "Using the starter dataset, I calculated the following statistics:\n",
-        "\n",
-        "Total records: [Replace with your dataset value]\n",
-        "Total unique search queries: [Replace with your dataset value]\n",
-        "Percentage of clicked search results: [Replace with your dataset value]%\n",
-        "\n",
-        "These statistics show that the dataset contains enough search activity to explore ranking behavior. The variety of search queries and user interactions suggests that machine learning can identify useful patterns that may improve search result ranking."
+        "This analysis is based only on the starter dataset and does not represent all search behavior. The results can suggest useful patterns, but they cannot prove that a particular ranking strategy will always improve user satisfaction. Any machine learning model developed during this internship should be evaluated on unseen data before being used in a real application."
       ],
       "metadata": {
-        "id": "0K5DaHWbUl8_"
+        "id": "-_6aoswmU6Xo"
       }
     }
   ],
