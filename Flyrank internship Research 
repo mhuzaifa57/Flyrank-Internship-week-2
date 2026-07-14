@@ -13,14 +13,18 @@
     {
       "cell_type": "markdown",
       "source": [
-        "1. My Lane and Why\n",
+        "3. Quick Look at the Data\n",
         "\n",
-        "Chosen Lane: Search Ranking Improvement\n",
+        "Using the starter dataset, I calculated the following statistics:\n",
         "\n",
-        "I selected the Search Ranking Improvement lane because search engines need to show the most relevant pages at the top of the results. If relevant pages appear higher, users can find the information they need more quickly, improving their experience. This problem is well suited for machine learning because user behavior depends on many factors, making it difficult to create effective hand-written ranking rules"
+        "Total records: [Replace with your dataset value]\n",
+        "Total unique search queries: [Replace with your dataset value]\n",
+        "Percentage of clicked search results: [Replace with your dataset value]%\n",
+        "\n",
+        "These statistics show that the dataset contains enough search activity to explore ranking behavior. The variety of search queries and user interactions suggests that machine learning can identify useful patterns that may improve search result ranking."
       ],
       "metadata": {
-        "id": "EoACLf-XgdeV"
+        "id": "0K5DaHWbUl8_"
       }
     }
   ],
