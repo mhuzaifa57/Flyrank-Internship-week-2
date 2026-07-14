@@ -1,0 +1,40 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/mhuzaifa57/Flyrank-Internship-week-2/blob/main/Flyrank%20internship%20Research%20\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "1. My Lane and Why\n",
+        "\n",
+        "Chosen Lane: Search Ranking Improvement\n",
+        "\n",
+        "I selected the Search Ranking Improvement lane because search engines need to show the most relevant pages at the top of the results. If relevant pages appear higher, users can find the information they need more quickly, improving their experience. This problem is well suited for machine learning because user behavior depends on many factors, making it difficult to create effective hand-written ranking rules"
+      ],
+      "metadata": {
+        "id": "EoACLf-XgdeV"
+      }
+    }
+  ],
+  "metadata": {
+    "colab": {
+      "name": "Welcome to Colab",
+      "provenance": [],
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "display_name": "Python 3",
+      "name": "python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 0
+}
